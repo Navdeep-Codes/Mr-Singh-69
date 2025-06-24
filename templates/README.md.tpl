@@ -36,5 +36,3 @@ Total: {{ wakatimeData.HumanReadableTotal }}
 Email: contact@navdeepsingh.tech
 Slack: @Navdeep (hackclub.com/slack)
 ```
-
-_readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
