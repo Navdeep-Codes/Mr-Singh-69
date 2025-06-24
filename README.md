@@ -8,10 +8,10 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,java)](https://github.com/Navdeep-Codes)
 
 **I have used:** <br>
-[![My Skills](https://skillicons.dev/icons?i=github,figma,cpp,bash,powershell,git,vscode,linux,vercel,mongodb)](https://github.com/Navdeep-Codes)
+[![My Skills](https://skillicons.dev/icons?i=github,figma,csharp,bash,powershell,git,vscode,linux,vercel,mongodb)](https://github.com/Navdeep-Codes)
 
 **I want to try:** <br>
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,tailwindcss,nextjs,aws,pyflask,react,)](https://github.com/Navdeep-Codes)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,tailwindcss,nextjs,aws,react,)](https://github.com/Navdeep-Codes)
 
 </div>
 <h2>Stats</h2>
