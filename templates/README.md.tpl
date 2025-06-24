@@ -1,27 +1,31 @@
-### ✌️ Hi! I'm a 17-year-old homeschooled programmer/wannabe hardware guy!
+<h2>Hello, I'm Navdeep</h2>
+<div>
 
-When not doing school or working on a project, I enjoy flying drones and making videos on my YouTube channel, [**_`The Wild Ramblings of Kieran`_**](https://youtube.com/@kieran.rambles).
+**I am great with:** <br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://github.com/Navdeep-Codes)
 
-#### 👷 The latest repos I've pushed to
-{{range recentContributions 8}}
-- [`{{.Repo.Name}}`]({{.Repo.URL}}) - _"{{.Repo.Description}}"_ **({{humanize .OccurredAt}})**
-{{- end}}
+**I am learning:** <br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,java,nextjs,react,)](https://github.com/Navdeep-Codes)
 
-#### ⌨️ My latest projects
-{{range recentCreatedRepos "taciturnaxolotl" 4}}
-- [`{{.Name}}`]({{.URL}}) - _"{{.Description}}"_
-{{- end}}
+**I have used:** <br>
+[![My Skills](https://skillicons.dev/icons?i=github,figma,bash,powershell,git,vscode,linux,vercel,mongodb)](https://github.com/Navdeep-Codes)
 
-#### 🗒️ the latest posts from my [blog](https://dunkirk.sh)
-{{range rss "https://dunkirk.sh/rss.xml" 3}}
-- [`{{.Title}}`]({{.URL}}) **({{humanize .PublishedAt}})**
-{{end}}
+**I want to try:** <br>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,tailwindcss,aws)](https://github.com/Navdeep-Codes)
 
+</div>
+<h2>Stats</h2>
+<div>
+  <img alt='stats' src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Navdeep-Codes&theme=tokyonight'>
+  <br>
+   <img alt='stats' src='https://github-readme-stats.hackclub.dev/api/wakatime?username=421&api_domain=hackatime.hackclub.com&theme=gruvbox&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8'>
+</div>
+<br>
 
-#### 📡 my [_`hackatime`_](https://waka.hackclub.com) stats from the last week
+#### 📡 my [_`hackatime`_](https://hackatime.hackclub.com) stats from the last week
 
 ```text
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+{{ wakatimeDoubleCategoryBar "Languages:" wakatimeData.Languages "Projects:" wakatimeData.Projects 5 }}
 
 Total: {{ wakatimeData.HumanReadableTotal }}
 ```
@@ -29,8 +33,8 @@ Total: {{ wakatimeData.HumanReadableTotal }}
 #### 📮 Want to Contact me?
 
 ```text
-Email: me@dunkirk.sh
-Slack: @krn (hackclub.com/slack)
+Email: contact@navdeepsingh.tech
+Slack: @Navdeep (hackclub.com/slack)
 ```
 
 _readme auto updates on the hour via [**`taciturnaxolotl/markscribe`**](https://github.com/taciturnaxolotl/markscribe)_
